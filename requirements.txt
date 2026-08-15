@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+pydantic
+faiss-cpu
+sentence-transformers
+numpy
+scipy
+scikit-learn
+pypdf
+python-docx
+openai
+requests
+streamlit
